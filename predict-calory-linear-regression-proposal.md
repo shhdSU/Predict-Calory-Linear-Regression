@@ -1,3 +1,4 @@
+# Calory Prediction Using Linear Regression Proposal
 ## Introduction
 Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses. The goal of this project is to predict food calories based on their nutrients using Linear Regression as a part of machine learning.
 
