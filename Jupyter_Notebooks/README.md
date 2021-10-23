@@ -1,5 +1,5 @@
 ## 🚧 Note
-All analysis done within eight Jupyter notebooks:
+All work done within eight Jupyter notebooks:
 - **For Data Collection:** <br/>
   1- [TraderJoes_Scraping_Code]()<br/>
   2- [Sprouts_Scraping_Code]()<br/><br/>
