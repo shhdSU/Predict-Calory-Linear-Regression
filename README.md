@@ -6,6 +6,7 @@ This project is done during SDAIA Academy Bootcamp as a part of METIS course req
 - [**Images Folder:**](https://github.com/shhdSU/Predict-Calory-Linear-Regression/tree/main/Images) to put the images used within this repo
 - [**Jupyter Notebook:**](https://github.com/shhdSU/Predict-Calory-Linear-Regression/tree/main/Jupyter_Notebooks) contains 8 Jupyter Notebook for the project
 - [**Calory Predictor Webpage:**](https://github.com/shhdSU/Predict-Calory-Linear-Regression/tree/main/Calory_Predictor_Webpage) contains autorun calory predictor webpage
+- [**Project Presentation**](https://github.com/shhdSU/Predict-Calory-Linear-Regression/blob/main/CaloryPredictorLinearRegression%20%20.pdf)
 - [**Final Report**](https://github.com/shhdSU/Predict-Calory-Linear-Regression/blob/main/Predict-Calory-Linear-Regression-Final-Report.md)
 
 
